@@ -1,2 +1,3 @@
 # SimulationsInPhysics
-Computer simulation techniques applied to specific physical problems.
+
+In this repository, you can find Python codes for computer simulation techniques applied to specific physical problems.
